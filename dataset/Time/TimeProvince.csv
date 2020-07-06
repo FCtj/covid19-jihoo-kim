@@ -726,7 +726,7 @@ date,time,province,confirmed,released,deceased
 2020-03-02,0,Chungcheongbuk-do,11,0,0
 2020-03-02,0,Chungcheongnam-do,78,0,0
 2020-03-02,0,Jeollabuk-do,6,1,0
-2020-03-02,0,Jeollanam-do,5,0,0
+2020-03-02,0,Jeollanam-do,4,0,0
 2020-03-02,0,Gyeongsangbuk-do,624,1,6
 2020-03-02,0,Gyeongsangnam-do,64,1,0
 2020-03-02,0,Jeju-do,2,0,0
@@ -743,7 +743,7 @@ date,time,province,confirmed,released,deceased
 2020-03-03,0,Chungcheongbuk-do,11,0,0
 2020-03-03,0,Chungcheongnam-do,81,0,0
 2020-03-03,0,Jeollabuk-do,7,1,0
-2020-03-03,0,Jeollanam-do,5,0,0
+2020-03-03,0,Jeollanam-do,4,0,0
 2020-03-03,0,Gyeongsangbuk-do,685,1,6
 2020-03-03,0,Gyeongsangnam-do,64,1,0
 2020-03-03,0,Jeju-do,3,0,0
@@ -1500,7 +1500,7 @@ date,time,province,confirmed,released,deceased
 2020-04-17,0,Daegu,6827,5626,159
 2020-04-17,0,Incheon,89,51,0
 2020-04-17,0,Gwangju,30,22,0
-2020-04-17,0,Daejeon,40,25,0
+2020-04-17,0,Daejeon,39,25,0
 2020-04-17,0,Ulsan,42,34,1
 2020-04-17,0,Sejong,46,24,0
 2020-04-17,0,Gyeonggi-do,650,340,14
